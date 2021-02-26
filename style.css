@@ -3,58 +3,63 @@
     padding: 0%;
     box-sizing: border-box;
 }
-.PrimoRiquadro {
+.primo_riquadro {
     height: 60px;
     background-color: blueviolet;
     width: 60%;
     margin: auto;
 }
-.SecondoRiquadro {
+.secondo_riquadro {
     height: 300px;
     background-color: rgb(219, 179, 145);
     width: 60%;
     margin: auto;
     margin-top: 15px;
 }
-.TerzoRiquadro {
+.terzo_riquadro {
     background-color: blue;
     width: 60%;
     margin: auto;
     margin-top: 15px;
 
 }
-.Clear{
+.clear{
     content: "";
     display: table;
     clear: both;
 }
-.SottoRiquadro1 {
+.sotto_riquadro1 {
     height: 50px;
     background-color: rgba(15, 115, 228, 0.87);
     width: 100%;
 }
-.SottoRiquadro2 {
+.sotto_riquadro2 {
     height: 300px;
     background-color: rgba(15, 115, 228, 0.87);
-    width: 19.6%;
+    width: 19%;
     float: left;
-    margin-top: 5px;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
-.SottoRiquadro3 {
+.sotto_riquadro3 {
     height: 300px;
     background-color: rgba(15, 115, 228, 0.87);
     width: 59.9%;
     float: left;
-    margin:5px;
+    margin-left: 1%;
+    margin-right: 1%;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
-.SottoRiquadro4 {
+.sotto_riquadro4 {
     height: 300px;
     background-color: rgba(15, 115, 228, 0.87);
-    width: 19.6%;
+    width: 19%;
     float: right;
-    margin-top: 5px;
+    margin-top: 1%;
+    margin-bottom: 1%;
 }
-.QuartoRiquadro {
+.quarto_riquadro {
     height: 40px;
     background-color: rgb(72, 13, 150);
     width: 60%;
